@@ -1,3 +1,4 @@
 from src.Cat_Dog_Classification.components.data_ingestion import DataIngestion
 from src.Cat_Dog_Classification.components.prepare_base_model import PrepareBaseModel
 from src.Cat_Dog_Classification.components.prepare_callbacks import PrepareCallback
+from src.Cat_Dog_Classification.components.training import TrainingConfig
